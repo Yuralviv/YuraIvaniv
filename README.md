@@ -1,9 +1,12 @@
 ### Hi there 👋, I'm Yuriy
 
 ## I'm a FullStack Developer, TeamLead and Teacher
-- 📍 I’m From Ukraune (Lviv)
+- 📍 I’m From Ukraine (Lviv)
 -💻  5+ Years Experience in Front-end Development
 - 🔥 Interested in WEB development
+- 🔥 Backend development
+- 🔥 Frontend development
+- 🔥 Mobile development (React Native)
 -📚 Mentor & Lecturer in IT-Step Academy
 
 ### 💻 Tech Stack:
