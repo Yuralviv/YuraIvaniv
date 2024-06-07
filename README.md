@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Yuriy
 
-## I'm a FrontEnd Developer, and Teacher
+## I'm a FullStack Developer, TeamLead and Teacher
 - 📍 I’m From Ukraune (Lviv)
--💻  1.5+ Years Experience in Front-end Development
+-💻  5+ Years Experience in Front-end Development
 - 🔥 Interested in WEB development
 -📚 Mentor & Lecturer in IT-Step Academy
 
