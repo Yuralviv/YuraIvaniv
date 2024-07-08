@@ -7,7 +7,7 @@
 - 🔥 Backend development
 - 🔥 Frontend development
 - 🔥 Mobile development (React Native)
--📚 Mentor & Lecturer in IT-Step Academy
+- 🔥  Mentor & Lecturer in IT-Step Academy
 
 ### 💻 Tech Stack:
 
